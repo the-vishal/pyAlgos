@@ -1,3 +1,3 @@
 # pyAlgos
 Algorithms Implementation in python
-![image](https://{https://goo.gl/images/iSyS4E})
+![image](https://{https://i.imgur.com/fq0A8hx.gif})
